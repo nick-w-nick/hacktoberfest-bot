@@ -19,8 +19,7 @@
     },
     "homepage": "https://github.com/nick-w-nick/hacktoberfest-bot#readme",
     "devDependencies": {
-        "dotenv": "^10.0.0",
-        "nodemon": "^2.0.13"
+        "dotenv": "^10.0.0"
     },
     "dependencies": {
         "@discordjs/builders": "^0.6.0",
