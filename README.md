@@ -15,7 +15,7 @@ HACKTOBERFEST_TOKEN=
 ## Deployment
 
 - run `npm install`
-- run `deploy-commands.js`
+- run `node deploy-commands.js`
 - run `node app.js`
 
 ## Bot Usage
