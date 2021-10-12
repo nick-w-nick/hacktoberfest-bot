@@ -18,8 +18,6 @@ HACKTOBERFEST_TOKEN=
 - run `deploy-commands.js`
 - run `node app.js`
 
-</br>
-
 ## Bot Usage
 
 `/report [github|gitlab] [repository name]`
